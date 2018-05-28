@@ -1,0 +1,14 @@
+{
+  "name": "fin",
+  "version": "1.0.0",
+  "description": "API demo for Fin ArangoDB",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^1.17.5"
+  }
+}
